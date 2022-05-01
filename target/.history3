@@ -1,0 +1,113 @@
+1649779761147:testOnly fp1tests -- -n fp1ex01
+1649781053437:scala
+1649781068490:console
+1649781077228:import fp1.*
+1649781092041:console
+1649781356507:testOnly fp1tests -- -n fp1ex01
+1649781550959:testOnly fp1tests -- -n fp1ex02
+1649782552567:testOnly fp1tests -- -n fp1ex03
+1649782604265:testOnly fp1tests -- -n fp1ex04
+1649782715050:testOnly fp1tests -- -n fp1ex05
+1649783170839:testOnly fp1tests -- -n fp1ex06
+1649783750965:testOnly fp1tests -- -n fp1ex05
+1649866832119:testOnly fp1tests -- -n fp1ex06
+1649866939199:testOnly fp1tests -- -n fp1ex07
+1649868336264:testOnly fp1tests -- -n fp1ex09
+1649872298503:testOnly fp1tests -- -n fp1ex08
+1649872523654:testOnly fp1tests -- -n fp1ex09
+1649872576084:testOnly fp1tests -- -n fp1ex10
+1649872806791:testOnly fp1tests -- -n fp1ex09
+1649872809238:testOnly fp1tests -- -n fp1ex08
+1649872813561:testOnly fp1tests -- -n fp1ex07
+1649872827934:testOnly fp1tests -- -n fp1ex06
+1649872833166:testOnly fp1tests -- -n fp1ex05
+1649872848564:testOnly fp1tests
+1649875901583:testOnly fp1tests -- -n fp1ex01
+1649875941545:testOnly fp1tests -- -n fp1ex02
+1649875961715:testOnly fp1tests -- -n fp1ex03
+1649875964363:testOnly fp1tests -- -n fp1ex04
+1649876011608:testOnly fp1tests -- -n fp1ex06
+1649876035120:testOnly fp1tests -- -n fp1ex07
+1649876064631:testOnly fp1tests -- -n fp1ex08
+1649876086555:testOnly fp1tests -- -n fp1ex09
+1649876101801:testOnly fp1tests -- -n fp1ex010
+1649876117681:testOnly fp1tests
+1649876175690:testOnly fp1tests -- -n fp1ex010
+1649876308961:testOnly fp1tests -- -n fp1ex09
+1649876394013:testOnly fp1tests -- -n fp1ex010
+1649876485548:testOnly fp1tests
+1649876557590:testOnly fp1tests -- -n fp1ex010
+1649876905413:testOnly fp1tests
+1649876915262:testOnly fp1tests -- -n fp1ex010
+1649876918642:testOnly fp1tests -- -n fp1ex009
+1649876930589:testOnly fp1tests -- -n fp1ex008
+1649876966162:testOnly fp1tests -- -n fp1ex010
+1649876970509:testOnly fp1tests
+1649876992130:testOnly fp1tests -- -n fp1ex01
+1649876996253:testOnly fp1tests -- -n fp1ex02
+1649876998742:testOnly fp1tests -- -n fp1ex03
+1649877001014:testOnly fp1tests -- -n fp1ex04
+1649877005322:testOnly fp1tests -- -n fp1ex05
+1649877012212:testOnly fp1tests -- -n fp1ex10
+1649877069150:testOnly fp1tests
+1649877178022:testOnly fp1tests -- -n fp1ex10
+1649877290790:testOnly fp1tests -- -n fp1ex2
+1649877295007:testOnly fp1tests -- -n fp1ex02
+1649877426830:testOnly fp1tests -- -n fp1ex07
+1649877528766:testOnly fp1tests -- -n fp1ex08
+1649877708769:testOnly fp1tests -- -n fp1ex10
+1649877712506:testOnly fp1tests -- -n fp1ex09
+1649877743800:testOnly fp1tests -- -n fp1ex06
+1649877764298:testOnly fp1tests -- -n fp1ex02
+1649877870732:testOnly fp1tests
+1650386552049:testOnly fp2tests -- -n fp2ex01
+1650389490530:testOnly fp2tests -- -n fp2ex03
+1650391687663:testOnly fp2tests -- -n fp2ex05
+1650392495524:testOnly fp2tests -- -n fp2ex06
+1650393286683:testOnly fp2tests -- -n fp2ex07
+1650395560582:testOnly fp2tests -- -n fp2ex08
+1650395950506:testOnly fp2tests -- -n fp2ex09
+1650400823093:testOnly fp2tests -- -n fp2ex07
+1650400834472:testOnly fp2tests -- -n fp2ex06
+1650400857814:testOnly fp2tests -- -n fp2ex05
+1650400941979:testOnly fp2tests -- -n fp2ex01
+1650401044712:testOnly fp2tests -- -n fp2ex07
+1650401067868:testOnly fp2tests -- -n fp2ex06
+1650401115752:testOnly fp2tests -- -n fp2ex05
+1650401134484:testOnly fp2tests -- -n fp2ex07
+1650401154657:testOnly fp2tests -- -n fp2ex08
+1650401180719:testOnly fp2tests -- -n fp2ex03
+1650401188624:testOnly fp2tests -- -n fp2ex05
+1650401191378:testOnly fp2tests -- -n fp2ex07
+1650401942610:testOnly fp2tests -- -n fp2ex08
+1650402000934:testOnly fp2tests -- -n fp2ex09
+1650402128992:testOnly fp2tests -- -n fp2ex08
+1650402132605:testOnly fp2tests -- -n fp2ex09
+1650403554065:testOnly fp2tests -- -n fp2ex10
+1650404312430:testOnly fp2tests -- -n fp2ex04
+1650404357313:testOnly fp2tests -- -n fp2ex01
+1650404361645:testOnly fp2tests --
+1650404416986:testOnly fp2tests -- -n fp2ex01
+1650404598573:testOnly fp2tests -- -n fp2ex03
+1650405395924:testOnly fp2tests --
+1650469963042:testOnly fp2tests -- -n fp2ex10
+1650469968657:testOnly fp2tests --
+1650986677674:testOnly fp3tests -- -n fp3ex01
+1650987394061:testOnly fp3tests -- -n fp3ex02
+1650989444084:testOnly fp3tests -- -n fp3ex03
+1650990961560:testOnly fp3tests -- -n fp3ex04
+1650991561755:testOnly fp3tests -- -n fp3ex05
+1650991797622:testOnly fp3tests -- -n fp3ex06
+1650992200836:testOnly fp3tests -- -n fp3ex07
+1650993920678:testOnly fp3tests -- -n fp3ex08
+1650995248194:testOnly fp3tests -- -n fp3ex010
+1650995294291:testOnly fp3tests -- -n fp3ex10
+1650995325349:testOnly fp3tests -- -n fp3ex010
+1650995331991:testOnly fp3tests -- -n fp3ex10
+1651002297207:testOnly fp3tests -- -n fp3ex09
+1651002543124:testOnly fp3tests --
+1651003472449:ss
+1651003475016:testOnly fp3tests --
+1651003481433:testOnly fp3tests -- -n fp3ex09
+1651003534224:testOnly fp3tests --
+1651425908425:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/qs/tscx30l92v91qd13121169_c0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/shashank/Library/Application Support/JetBrains/IdeaIC2021.3/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
